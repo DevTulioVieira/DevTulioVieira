@@ -1,132 +1,94 @@
 <div align="center">
 
-# 💙 Túlio Vieira
+# Túlio Vieira
 
-### Desenvolvedor Web • TI • Infraestrutura
+### 🌐 Desenvolvimento Web &nbsp;·&nbsp; 🛠️ Tecnologia da Informação &nbsp;·&nbsp; 🛡️ Infraestrutura
 
-<p>
-  <a href="https://www.ctrlinformatica.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Site%20Profissional-CTRL%20Inform%C3%A1tica-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/DevTulioVieira">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-1F2937?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:contato@ctrlinformatica.com">
-    <img src="https://img.shields.io/badge/Contato-E--mail-C9A227?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Soluções digitais, automação e tecnologia para negócios.**
 
-<img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20projetos-0A66C2?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Local-S%C3%A3o%20Jo%C3%A3o%20Evangelista%20--%20MG-C9A227?style=flat-square" />
+<a href="https://www.ctrlinformatica.com"><img alt="Site CTRL Informática" src="https://img.shields.io/badge/CTRL_Informática-Visitar_site-1163B6?style=for-the-badge&labelColor=09264A"></a>
+<a href="https://www.instagram.com/tulio._.vieira/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Perfil-C9A227?style=for-the-badge&labelColor=09264A"></a>
+<a href="mailto:tulioifmg@gmail.com"><img alt="Enviar e-mail" src="https://img.shields.io/badge/E--mail-Entrar_em_contato-1163B6?style=for-the-badge&labelColor=09264A"></a>
+
+📍 São João Evangelista · Minas Gerais · Brasil
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👋 Sobre mim
 
-Sou **Desenvolvedor Web** e profissional de **Tecnologia da Informação**, com atuação em **infraestrutura, automação, monitoramento, suporte técnico e desenvolvimento de sistemas web**.
+Sou desenvolvedor web e profissional de TI, com atuação em **criação de sites e sistemas web**, **suporte técnico**, **infraestrutura**, **monitoramento** e **automação**. Desenvolvo soluções voltadas às necessidades de empresas e projetos próprios.
 
-Tenho experiência prática com criação de sites, aplicações internas, ambientes locais para empresas, servidores, monitoramento de rede e soluções de suporte técnico por meio da **CTRL Informática**.
+## 🎓 Formação acadêmica
 
----
+- **Técnico em Informática**
+- **Bacharel em Sistemas de Informação**
+- **MBA em Segurança da Informação**
 
-## 🎓 Formação
+## 🖥️🪛 Ferramentas e tecnologias
 
-- 🎓 **Técnico em Informática**
-- 🎓 **Bacharel em Sistemas de Informação**
-- 🎓 **MBA em Segurança da Informação**
-- 🖧 **Administrador de Redes**
+### 🎨 Desenvolvimento web
 
----
+![HTML5](https://img.shields.io/badge/HTML5-1163B6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-C9A227?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1163B6?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-C9A227?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1163B6?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 🛠️ Ferramentas e Tecnologias
+### 🧰 Servidores, infraestrutura e suporte
 
-### 💻🔧 Desenvolvimento Web
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0A66C2?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-C9A227?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0A66C2?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-C9A227?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0A66C2?style=for-the-badge&logo=react&logoColor=white" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-C9A227?style=for-the-badge&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-1163B6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-C9A227?style=for-the-badge&logo=linux&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-1163B6?style=for-the-badge)
+![Zabbix](https://img.shields.io/badge/Zabbix-C9A227?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-1163B6?style=for-the-badge&logo=powershell&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-C9A227?style=for-the-badge)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-1163B6?style=for-the-badge)
 
-### 💻🔧 Infraestrutura, DevOps e Suporte
-<p>
-  <img src="https://img.shields.io/badge/Docker-C9A227?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL-0A66C2?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-C9A227?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0A66C2?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zabbix-C9A227?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Samba-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ZFS-C9A227?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailscale-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AnyDesk-C9A227?style=for-the-badge" />
-</p>
+### 🗄️ Dados, plataformas e integrações
 
-### 💻🔧 Banco de Dados, Versionamento e Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-C9A227?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/EasyPanel-C9A227?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Typebot-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Evolution%20API-C9A227?style=for-the-badge" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1163B6?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C9A227?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1163B6?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-C9A227?style=for-the-badge&logo=githubpages&logoColor=white)
+![EasyPanel](https://img.shields.io/badge/EasyPanel-1163B6?style=for-the-badge)
+![Typebot](https://img.shields.io/badge/Typebot-C9A227?style=for-the-badge)
+![Evolution API](https://img.shields.io/badge/Evolution_API-1163B6?style=for-the-badge)
 
-### 💻🔧 Outras Linguagens e Tecnologias com as quais já atuei
-<p>
-  <img src="https://img.shields.io/badge/C++-0A66C2?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/VB6-C9A227?style=for-the-badge" />
-</p>
+### 📚 Outras linguagens e projetos
 
----
+![C++](https://img.shields.io/badge/C++-1163B6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Visual Basic 6](https://img.shields.io/badge/Visual_Basic_6-C9A227?style=for-the-badge)
 
-## 🚀 Áreas de atuação
+## 🚀 O que faço
 
-- Desenvolvimento de **sites institucionais**
-- Criação de **landing pages**
-- Desenvolvimento de **sistemas web internos**
-- **Infraestrutura** e organização de servidores
-- **Monitoramento de redes e equipamentos**
-- **Automação** e integração de ferramentas
-- **Suporte técnico** para computadores e notebooks
-- Implantação de soluções locais para empresas
+- 🌍 Sites institucionais, landing pages e interfaces web
+- ⚙️ Sistemas web e automações para processos internos
+- 📡 Monitoramento de computadores, serviços e redes
+- 🗂️ Servidores, compartilhamento de arquivos e rotinas de backup
+- 🔧 Diagnóstico, manutenção e suporte técnico
 
----
+## ✨ Projetos
 
-## 📌 Projetos em destaque
+Explore meus [repositórios públicos](https://github.com/DevTulioVieira?tab=repositories). Documentações e demonstrações de projetos internos são publicadas apenas quando não expõem dados ou informações de clientes.
 
-Aqui estão alguns tipos de projetos que fazem parte da minha atuação:
+## 📬 Contato
 
-- 🌐 Sites institucionais e comerciais
-- 🖥️ Sistemas web com Node.js
-- 📊 Soluções de monitoramento com Zabbix
-- 🗂️ Estruturação de servidores de arquivos e backup
-- 📍 Sistemas personalizados para operação interna e gestão
+**E-mail:** [tulioifmg@gmail.com](mailto:tulioifmg@gmail.com)  
+**Para copiar:** `tulioifmg@gmail.com`  
+**Instagram:** [@tulio._.vieira](https://www.instagram.com/tulio._.vieira/)  
+**Site:** [www.ctrlinformatica.com](https://www.ctrlinformatica.com)
 
-> Dica: depois podemos organizar seus melhores repositórios fixados para combinar com esse README.
-
----
-
-## 🌐 Links profissionais
-
-- Site: <a href="https://www.ctrlinformatica.com" target="_blank" rel="noopener noreferrer">www.ctrlinformatica.com</a>
-- GitHub: <a href="https://github.com/DevTulioVieira">github.com/DevTulioVieira</a>
-
----
-
-## 📫 Contato
-
-Se quiser conversar sobre projetos, suporte técnico, infraestrutura ou desenvolvimento web, entre em contato pela **CTRL Informática**.
+> **Teste de nova guia:** o link abaixo contém `target="_blank"`. O GitHub pode remover esse atributo; isso depende do renderizador, não do README.
+>
+> <a href="https://www.ctrlinformatica.com" target="_blank" rel="noopener noreferrer">🌐 Abrir CTRL Informática</a>
 
 ---
 
 <div align="center">
 
-### 💙 Obrigado por visitar meu perfil
-
-<img src="https://img.shields.io/badge/Desenvolvimento_Web-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TI_%26_Infraestrutura-C9A227?style=for-the-badge" />
+**🔷 Tecnologia com propósito &nbsp;·&nbsp; ⚪ Simplicidade &nbsp;·&nbsp; 🟡 Qualidade**
 
 </div>
