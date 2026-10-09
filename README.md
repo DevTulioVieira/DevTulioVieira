@@ -1,69 +1,132 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:081A36,55:154C83,100:C7A15A&text=T%C3%BAlio%20Vieira&fontColor=FFFFFF&fontSize=48&fontAlignY=39&desc=Desenvolvimento%20Web%20%7C%20TI%20%26%20Infraestrutura&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="Túlio Vieira — Desenvolvimento Web, TI e Infraestrutura" />
+# 💙 Túlio Vieira
 
-  <h3>Transformando necessidades em soluções digitais.</h3>
-  <p>Desenvolvimento de sistemas web • Infraestrutura de TI • Automação</p>
+### Desenvolvedor Web • TI • Infraestrutura
 
-  <a href="https://www.ctrlinformatica.com"><img src="https://img.shields.io/badge/CTRL%20Inform%C3%A1tica-Visitar%20site-123C68?style=for-the-badge&labelColor=091A34" alt="Site CTRL Informática" /></a>
-  <a href="https://github.com/DevTulioVieira?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Ver%20projetos-C7A15A?style=for-the-badge&labelColor=091A34" alt="Ver projetos" /></a>
+<p>
+  <a href="https://www.ctrlinformatica.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Site%20Profissional-CTRL%20Inform%C3%A1tica-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/DevTulioVieira">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-1F2937?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:contato@ctrlinformatica.com">
+    <img src="https://img.shields.io/badge/Contato-E--mail-C9A227?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20projetos-0A66C2?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Local-S%C3%A3o%20Jo%C3%A3o%20Evangelista%20--%20MG-C9A227?style=flat-square" />
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Olá! Sou **Túlio Vieira**, desenvolvedor web e profissional de Tecnologia da Informação, de **São João Evangelista, Minas Gerais**.
+Sou **Desenvolvedor Web** e profissional de **Tecnologia da Informação**, com atuação em **infraestrutura, automação, monitoramento, suporte técnico e desenvolvimento de sistemas web**.
 
-Atuo com **desenvolvimento de aplicações web, suporte técnico, infraestrutura de redes e automação**, com foco em soluções práticas para necessidades reais de pessoas e empresas.
+Tenho experiência prática com criação de sites, aplicações internas, ambientes locais para empresas, servidores, monitoramento de rede e soluções de suporte técnico por meio da **CTRL Informática**.
 
-- 🌐 **Desenvolvimento:** sites institucionais, páginas de apresentação e sistemas web.
-- 🖥️ **Infraestrutura:** redes, servidores, monitoramento e manutenção de computadores.
-- ⚙️ **Automação:** scripts, integrações e melhoria de rotinas de TI.
-- 🏢 **Atuação profissional:** [CTRL Informática](https://www.ctrlinformatica.com).
+---
 
-### 🧰 Tecnologias e ferramentas
+## 🎓 Formação
 
-**Desenvolvimento web**
+- 🎓 **Técnico em Informática**
+- 🎓 **Bacharel em Sistemas de Informação**
+- 🎓 **MBA em Segurança da Informação**
+- 🖧 **Administrador de Redes**
 
-![HTML5](https://img.shields.io/badge/HTML5-123C68?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-123C68?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-C7A15A?style=flat-square&logo=javascript&logoColor=091A34)
-![React](https://img.shields.io/badge/React-123C68?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-123C68?style=flat-square&logo=nodedotjs&logoColor=white)
+---
 
-**Infraestrutura e ferramentas**
+## 🛠️ Ferramentas e Tecnologias
 
-![Docker](https://img.shields.io/badge/Docker-123C68?style=flat-square&logo=docker&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-123C68?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-123C68?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-C7A15A?style=flat-square&logo=git&logoColor=091A34)
-![GitHub](https://img.shields.io/badge/GitHub-C7A15A?style=flat-square&logo=github&logoColor=091A34)
-![Zabbix](https://img.shields.io/badge/Zabbix-123C68?style=flat-square&logo=zabbix&logoColor=white)
+### 💻🔧 Desenvolvimento Web
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0A66C2?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-C9A227?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0A66C2?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-C9A227?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0A66C2?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
-### 🚀 Áreas e projetos
+### 💻🔧 Infraestrutura, DevOps e Suporte
+<p>
+  <img src="https://img.shields.io/badge/Docker-C9A227?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL-0A66C2?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-C9A227?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0A66C2?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-C9A227?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Samba-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ZFS-C9A227?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailscale-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AnyDesk-C9A227?style=for-the-badge" />
+</p>
 
-| Área | O que desenvolvo e implemento |
-| :--- | :--- |
-| 🌍 **Sites e experiências web** | Páginas institucionais, landing pages e interfaces responsivas. |
-| 🧩 **Sistemas web** | Aplicações para gestão de informações e apoio a processos internos. |
-| 🛡️ **Infraestrutura e monitoramento** | Redes, servidores, backups e acompanhamento de equipamentos. |
-| ⚡ **Automações** | Scripts e integrações para reduzir tarefas repetitivas. |
+### 💻🔧 Banco de Dados, Versionamento e Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-C9A227?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyPanel-C9A227?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Typebot-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evolution%20API-C9A227?style=for-the-badge" />
+</p>
 
-> **Em construção:** estou organizando estudos de caso, demonstrações e documentação de projetos para publicação. Soluções internas e dados de clientes permanecem privados.
+### 💻🔧 Outras Linguagens e Tecnologias com as quais já atuei
+<p>
+  <img src="https://img.shields.io/badge/C++-0A66C2?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/VB6-C9A227?style=for-the-badge" />
+</p>
 
-**[Explorar meus repositórios →](https://github.com/DevTulioVieira?tab=repositories)**
+---
 
-### 🤝 Contato e presença profissional
+## 🚀 Áreas de atuação
 
-- 🌐 **CTRL Informática:** https://www.ctrlinformatica.com
-- 💻 **GitHub:** https://github.com/DevTulioVieira
-- 📍 **Localização:** São João Evangelista, MG — Brasil
+- Desenvolvimento de **sites institucionais**
+- Criação de **landing pages**
+- Desenvolvimento de **sistemas web internos**
+- **Infraestrutura** e organização de servidores
+- **Monitoramento de redes e equipamentos**
+- **Automação** e integração de ferramentas
+- **Suporte técnico** para computadores e notebooks
+- Implantação de soluções locais para empresas
+
+---
+
+## 📌 Projetos em destaque
+
+Aqui estão alguns tipos de projetos que fazem parte da minha atuação:
+
+- 🌐 Sites institucionais e comerciais
+- 🖥️ Sistemas web com Node.js
+- 📊 Soluções de monitoramento com Zabbix
+- 🗂️ Estruturação de servidores de arquivos e backup
+- 📍 Sistemas personalizados para operação interna e gestão
+
+> Dica: depois podemos organizar seus melhores repositórios fixados para combinar com esse README.
+
+---
+
+## 🌐 Links profissionais
+
+- Site: <a href="https://www.ctrlinformatica.com" target="_blank" rel="noopener noreferrer">www.ctrlinformatica.com</a>
+- GitHub: <a href="https://github.com/DevTulioVieira">github.com/DevTulioVieira</a>
+
+---
+
+## 📫 Contato
+
+Se quiser conversar sobre projetos, suporte técnico, infraestrutura ou desenvolvimento web, entre em contato pela **CTRL Informática**.
 
 ---
 
 <div align="center">
-  <sub>Desenvolvimento • Tecnologia • Soluções com propósito</sub><br />
-  <sub>© 2026 Túlio Vieira</sub>
+
+### 💙 Obrigado por visitar meu perfil
+
+<img src="https://img.shields.io/badge/Desenvolvimento_Web-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TI_%26_Infraestrutura-C9A227?style=for-the-badge" />
+
 </div>
