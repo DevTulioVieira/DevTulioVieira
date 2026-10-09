@@ -8,9 +8,9 @@
 
 <a href="https://www.ctrlinformatica.com"><img alt="Site CTRL Informática" src="https://img.shields.io/badge/CTRL_Informática-Visitar_site-1163B6?style=for-the-badge&labelColor=09264A"></a>
 <a href="https://www.instagram.com/tulio._.vieira/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Perfil-C9A227?style=for-the-badge&labelColor=09264A"></a>
-<a href="mailto:tulioifmg@gmail.com"><img alt="Enviar e-mail" src="https://img.shields.io/badge/E--mail-Entrar_em_contato-1163B6?style=for-the-badge&labelColor=09264A"></a>
+<a href="https://github.com/DevTulioVieira"><img alt="Meu GitHub" src="https://img.shields.io/badge/GitHub-Meu_perfil-1163B6?style=for-the-badge&labelColor=09264A&logo=github&logoColor=white"></a>
 
-📍 São João Evangelista · Minas Gerais · Brasil
+📍 Minas Gerais · Brasil
 
 </div>
 
@@ -26,7 +26,7 @@ Sou desenvolvedor web e profissional de TI, com atuação em **criação de site
 - **Bacharel em Sistemas de Informação**
 - **MBA em Segurança da Informação**
 
-## 🖥️🪛 Ferramentas e tecnologias
+## 🖥️ Ferramentas e tecnologias
 
 ### 🎨 Desenvolvimento web
 
@@ -77,18 +77,6 @@ Explore meus [repositórios públicos](https://github.com/DevTulioVieira?tab=rep
 ## 📬 Contato
 
 **E-mail:** [tulioifmg@gmail.com](mailto:tulioifmg@gmail.com)  
-**Para copiar:** `tulioifmg@gmail.com`  
 **Instagram:** [@tulio._.vieira](https://www.instagram.com/tulio._.vieira/)  
 **Site:** [www.ctrlinformatica.com](https://www.ctrlinformatica.com)
 
-> **Teste de nova guia:** o link abaixo contém `target="_blank"`. O GitHub pode remover esse atributo; isso depende do renderizador, não do README.
->
-> <a href="https://www.ctrlinformatica.com" target="_blank" rel="noopener noreferrer">🌐 Abrir CTRL Informática</a>
-
----
-
-<div align="center">
-
-**🔷 Tecnologia com propósito &nbsp;·&nbsp; ⚪ Simplicidade &nbsp;·&nbsp; 🟡 Qualidade**
-
-</div>
